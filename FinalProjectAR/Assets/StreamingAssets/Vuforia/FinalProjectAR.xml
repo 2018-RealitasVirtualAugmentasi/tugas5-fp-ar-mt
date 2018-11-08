@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Xe" size="525.000000 464.898987" />
+    <ImageTarget name="Tl" size="525.000000 465.782837" />
+    <ImageTarget name="Te" size="525.000000 463.442200" />
+    <ImageTarget name="Sr" size="525.000000 464.898987" />
+    <ImageTarget name="Sn" size="525.000000 464.219788" />
+    <ImageTarget name="Si" size="525.000000 464.797638" />
+    <ImageTarget name="Se" size="525.000000 465.100677" />
+    <ImageTarget name="Sb" size="525.000000 464.117645" />
+    <ImageTarget name="S" size="525.000000 464.117645" />
+    <ImageTarget name="Rn" size="525.000000 465.000000" />
+    <ImageTarget name="Rb" size="525.000000 463.338928" />
+    <ImageTarget name="Ra" size="525.000000 465.882355" />
+    <ImageTarget name="Po" size="525.000000 464.117645" />
+    <ImageTarget name="Pb" size="525.000000 465.100677" />
+    <ImageTarget name="P" size="525.000000 463.235291" />
+    <ImageTarget name="O" size="525.000000 464.797638" />
+    <ImageTarget name="Ne" size="525.000000 463.912323" />
+    <ImageTarget name="Na" size="525.000000 464.797638" />
+    <ImageTarget name="N" size="525.000000 464.797638" />
+    <ImageTarget name="Mg" size="525.000000 464.797638" />
+    <ImageTarget name="Li" size="525.000000 463.912323" />
+    <ImageTarget name="Kr" size="525.000000 463.338928" />
+    <ImageTarget name="K" size="525.000000 463.235291" />
+    <ImageTarget name="In" size="525.000000 463.235291" />
+    <ImageTarget name="I" size="525.000000 465.000000" />
+    <ImageTarget name="He" size="525.000000 464.797638" />
+    <ImageTarget name="H" size="525.000000 464.797638" />
+    <ImageTarget name="Ge" size="525.000000 466.469604" />
+    <ImageTarget name="Ga" size="525.000000 463.338928" />
+    <ImageTarget name="Fr" size="525.000000 464.898987" />
+    <ImageTarget name="F" size="525.000000 463.912323" />
+    <ImageTarget name="Cs" size="525.000000 464.117645" />
+    <ImageTarget name="Cl" size="525.000000 464.898987" />
+    <ImageTarget name="Ca" size="525.000000 465.582764" />
+    <ImageTarget name="C" size="525.000000 463.912323" />
+    <ImageTarget name="Br" size="525.000000 465.201019" />
+    <ImageTarget name="Bi" size="525.000000 465.000000" />
+    <ImageTarget name="Be" size="525.000000 463.912323" />
+    <ImageTarget name="Ba" size="525.000000 465.882355" />
+    <ImageTarget name="B" size="525.000000 464.695953" />
+    <ImageTarget name="At" size="525.000000 464.898987" />
+    <ImageTarget name="As" size="525.000000 469.035522" />
+    <ImageTarget name="Ar" size="525.000000 464.015137" />
+    <ImageTarget name="Al" size="525.000000 464.797638" />
+  </Tracking>
+</QCARConfig>
