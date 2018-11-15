@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NaCl" size="1250.000000 526.421143" />
+    <ImageTarget name="MgCl2" size="1250.000000 526.421143" />
+    <ImageTarget name="KCl" size="1250.000000 526.421143" />
+    <ImageTarget name="HF" size="1250.000000 526.000000" />
+    <ImageTarget name="HCl" size="1250.000000 526.421143" />
+    <ImageTarget name="H2S" size="1250.000000 526.000000" />
+    <ImageTarget name="H2O" size="1250.000000 525.000000" />
+    <ImageTarget name="CaCl2" size="1250.000000 526.421143" />
+  </Tracking>
+</QCARConfig>
